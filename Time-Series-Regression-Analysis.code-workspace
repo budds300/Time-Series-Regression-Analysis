@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../azubi/lp3/Time_Series_Regression_Analysis/Datasets"
+		}
+	],
+	"settings": {}
+}
